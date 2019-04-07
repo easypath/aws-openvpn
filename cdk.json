@@ -1,0 +1,3 @@
+{
+  "app": "node -r dotenv/config bin/aws-openvpn.js"
+}
